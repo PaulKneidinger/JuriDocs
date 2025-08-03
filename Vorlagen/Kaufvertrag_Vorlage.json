@@ -1,0 +1,4 @@
+{
+  "Titel": "Kaufvertrag",
+  "Text": "Dies ist ein Muster-Kaufvertrag.\n\nDokumentenname: {{DokumentName}}\n\nZwischen den Parteien:\nVerkäufer: {{Name}}\nAdresse: {{Adresse}}\n\nUnd dem Käufer.\n\nDieser Vertrag wurde am heutigen Tage geschlossen."
+}
